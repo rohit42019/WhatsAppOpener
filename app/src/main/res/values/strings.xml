@@ -1,0 +1,9 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" >
+    <string name="app_name">WhatsApp Opener</string>
+    <string name="zero">0</string>
+    <string name="please_check_your_number">Please Check Your Number</string>
+    <string name="nine_one">91</string>
+    <string name="whatsappAPI">https://wa.me/<xliff:g id="number" example="1">%s</xliff:g></string>
+    <string name="whatsapp_not_found">WhatsApp Not Found</string>
+    <string name="whatsapp_package_name">com.whatsapp</string>
+</resources>
